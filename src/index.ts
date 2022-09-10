@@ -1,4 +1,4 @@
-import type { DeclRemasterConfig } from "@types";
+import type { DeclRemasterConfig } from "types";
 import * as hooks from 'hooks';
 import * as config from 'config';
 

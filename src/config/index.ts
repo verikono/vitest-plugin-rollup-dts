@@ -1,4 +1,4 @@
-import type { DeclRemasterConfig } from "@types";
+import type { DeclRemasterConfig } from "types";
 
 const config:DeclRemasterConfig = {
 

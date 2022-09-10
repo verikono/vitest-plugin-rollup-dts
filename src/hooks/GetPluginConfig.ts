@@ -1,5 +1,5 @@
 import type { ViteDevServer } from "vite";
-import type { DeclRemasterConfig } from "@types";
+import type { DeclRemasterConfig } from "types";
 
 export default function GetPluginConfig( server:ViteDevServer ):DeclRemasterConfig {
 
